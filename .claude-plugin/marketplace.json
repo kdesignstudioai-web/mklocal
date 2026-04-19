@@ -10,8 +10,8 @@
     {
       "name": "personal-assistant",
       "source": {
-        "source": "github",
-        "repo": "kjenney/personal-assistant-plugin",
+        "source": "url",
+        "url": "https://github.com/kjenney/personal-assistant-plugin.git",
         "ref": "main"
       },
       "description": "Personal assistant for Gmail and Google Calendar",
