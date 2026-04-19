@@ -1,0 +1,21 @@
+{
+  "name": "mklocal",
+  "owner": {
+    "name": "Mark Kennedy"
+  },
+  "metadata": {
+    "description": "Local Claude Code marketplace"
+  },
+  "plugins": [
+    {
+      "name": "personal-assistant",
+      "source": {
+        "source": "github",
+        "repo": "kjenney/personal-assistant-plugin",
+        "ref": "main"
+      },
+      "description": "Personal assistant for Gmail and Google Calendar",
+      "repository": "https://github.com/kjenney/personal-assistant-plugin"
+    }
+  ]
+}
